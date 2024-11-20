@@ -1,5 +1,12 @@
 # Análise de Entrevistas com BERT e Visualização de Similaridade
 
+## Integrantes
+
+João José Cunha Melo e Sousa Bentivi - 10395405
+Pedro Henrique Rocha - 10396190
+
+Guilherme Guimarães Chiarelli - 10374662
+
 ## Descrição do Projeto
 
 Este projeto utiliza a biblioteca BERT para realizar análise de sentimentos em entrevistas, além de calcular a similaridade semântica entre elas usando a similaridade cosseno. Os resultados são visualizados através de gráficos, incluindo histogramas de sentimentos e matrizes de calor para similaridades.
