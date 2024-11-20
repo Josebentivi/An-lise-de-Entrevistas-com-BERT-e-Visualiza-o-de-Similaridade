@@ -1,4 +1,4 @@
-# Análise de Entrevistas com BERT e Visualização de Similaridade
+# Análise de Entrevistas com BERT, Kmeans e Visualização de Similaridade
 
 ## Integrantes
 
@@ -50,6 +50,7 @@ Uma vez que as entrevistas são transcritas com Whisper, os textos resultantes s
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Kmeans
 
 ## Projeto
 
