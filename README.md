@@ -4,7 +4,7 @@
 
 João José Cunha Melo e Sousa Bentivi - 10395405
 Pedro Henrique Rocha - 10396190
-
+Gabriel Meylan Gadelha - 10395945
 Guilherme Guimarães Chiarelli - 10374662
 
 ## Descrição do Projeto
