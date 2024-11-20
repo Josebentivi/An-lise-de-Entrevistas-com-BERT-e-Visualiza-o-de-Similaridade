@@ -1,5 +1,9 @@
 # Análise de Entrevistas com BERT, Kmeans e Visualização de Similaridade
 
+## Apresentação
+
+https://youtu.be/DtPSHvKMsWs
+
 ## Integrantes
 
 João José Cunha Melo e Sousa Bentivi - 10395405
